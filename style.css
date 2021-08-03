@@ -1,0 +1,33 @@
+html, body {
+          margin: 15px;
+          height: 100%;
+          width: 100%;
+          align-items: center;
+        
+}
+/*navbar*/
+h1{
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-weight: 900;
+}
+li  {
+         display: inline-block;
+         margin: 10px;
+}
+input {
+          margin: 40px;
+          width: 500px;
+          height: 40px;
+          border: solid 2px silver;
+          border-radius: 10px;
+}
+
+/*img*/
+img {
+          width: 500px;
+          height: 400px;
+}
+/*p*/
+p {
+          font-size: 30px;
+}
